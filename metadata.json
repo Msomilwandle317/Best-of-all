@@ -1,0 +1,6 @@
+{
+  "name": "KILL CHART - Mobile Algorithmic Trading EA",
+  "description": "Black and red mobile Expert Advisor (EA) with automated START/STOP execution, manual code runner, MT4/MT5 broker server bridge, live positions monitor, and AI chart screenshot scanner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
